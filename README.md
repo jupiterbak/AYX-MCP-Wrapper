@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-green.svg)](https://modelcontextprotocol.io/)
 
+<a href="https://glama.ai/mcp/servers/@jupiterbak/AYX-MCP-Wrapper">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@jupiterbak/AYX-MCP-Wrapper/badge" alt="AYX-MCP-Wrapper MCP server" />
+</a>
+
 ## ⚠️ DISCLAIMER
 
 **This is NOT an official implementation.**
@@ -121,7 +125,7 @@ To use this MCP server with Claude Desktop, add the following configuration to y
 ```
 ```
 
-However, we recommend to use it in combination with the "Sequential Thinking" tool:
+However, we recommend using it in combination with the "Sequential Thinking" tool:
 
 ```json
 {   "mcpServers": {
